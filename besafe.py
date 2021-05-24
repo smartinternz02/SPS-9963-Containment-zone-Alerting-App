@@ -9,7 +9,7 @@ app.secret_key = 'a'
 
 app.config['MYSQL_HOST'] = 'remotemysql.com'
 app.config['MYSQL_USER'] = 'aW4y0436Cx'
-app.config['MYSQL_PASSWORD'] = 'z27pJ54MBW'
+app.config['MYSQL_PASSWORD'] = 'z89pJ54MBW'
 app.config['MYSQL_DB'] = 'aW4y0436Cx'
 mysql = MySQL(app)
 
